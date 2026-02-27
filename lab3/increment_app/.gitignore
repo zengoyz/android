@@ -1,8 +1,0 @@
-/build/
-.dart_tool/
-.android/
-.idea/
-.vscode/
-*.iml
-*.log
-*.lock
